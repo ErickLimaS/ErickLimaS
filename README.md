@@ -31,6 +31,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<!---
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -66,6 +67,7 @@
     </tr>
   </tbody>
 </table>
+--->
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/ErickLimaS" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/erick-lima-da-silva-254953148" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:erickdevweb@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
