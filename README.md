@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+![](https://komarev.com/ghpvc/?username=ErickLimaS)
 
 <p>Welcome to my page! </br> I'm Erick, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brazil</b>.</p>
 <h3>Things I code with</h3>
@@ -30,6 +31,14 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-383838?style=flat-square&logo=express&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ErickLimaS&theme=onedark&no-bg=true&title=Stars,Commits,Repositories,PR&margin-w=15&margin-h=15
+)](https://github.com/ErickLimaS/github-profile-trophy)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ErickLimaS&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickLimaS&layout=compact" />
+</div>
 
 <!---
 <h3>Open source projects</h3>
