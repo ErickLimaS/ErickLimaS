@@ -32,10 +32,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<!---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErickLimaS&theme=onedark&no-bg=true&title=Stars,Commits,Repositories,PR&margin-w=15&margin-h=15
+
+[![trophy](https://github-trophies.vercel.app/?username=ErickLimaS&theme=onedark&no-bg=true&title=Stars,Commits,Repositories,PR&margin-w=15&margin-h=15)
 )](https://github.com/ErickLimaS/github-profile-trophy)
---->
+
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ErickLimaS&count_private=true&include_all_commits=true" />
